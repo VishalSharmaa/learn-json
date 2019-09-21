@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Virat",
+        "inteam": true
+    },
+    {
+        "name": "rohit",
+        "inteam": true
+    },
+    {
+        "name": "rayudu",
+        "inteam": false
+    },
+    {
+        "name": "dhoni",
+        "inteam": false
+    },
+    {
+        "name": "hardik",
+        "inteam": true
+    },
+    {
+        "name": "kunal",
+        "inteam": false
+    },
+    {
+        "name": "bumrah",
+        "inteam": true
+    },
+]
